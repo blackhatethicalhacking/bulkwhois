@@ -1,8 +1,11 @@
 # bulkwhois
 
+**A Tool for Recon & Digital Forensics by BHEH** <br>
+
+![alt text](https://www.blackhatethicalhacking.com/wp-content/uploads/2020/01/Screenshot-2020-01-01-at-8.11.20-PM.png)
+
 Bulk Whois, Saved the result of multiple IP Addresses, given from a list, that can be saved to a text file for Recon Purposes.
 
-**A Tool for Recon & Digital Forensics by BHEH**
 
 First Create a file called ip_list Without any extension.
 
@@ -18,14 +21,15 @@ To run on Linux, MacOS:
 
 --> **./bulkwhois > nameoffile.txt**
 
-Will save the output into a text file.
+Will save the output into a text file :+1:
 
 You Can Customize / Convert the output to csv with some customization.
 
-By:
-**Black Hat Ethical Hacking**
-Security is a myth...
-www.blackhatethicalhacking
+
+By: <br>
+**Black Hat Ethical Hacking**<br>
+Security is a myth...<br>
+www.blackhatethicalhacking<br>
 
 
 
